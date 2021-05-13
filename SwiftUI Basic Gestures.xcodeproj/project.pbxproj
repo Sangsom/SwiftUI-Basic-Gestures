@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1BEF1AF5264D25A0001C0B91 /* SwiftUI_Basic_GesturesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BEF1AF4264D25A0001C0B91 /* SwiftUI_Basic_GesturesApp.swift */; };
-		1BEF1AF7264D25A0001C0B91 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BEF1AF6264D25A0001C0B91 /* ContentView.swift */; };
+		1BEF1AF7264D25A0001C0B91 /* TapGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BEF1AF6264D25A0001C0B91 /* TapGestureView.swift */; };
 		1BEF1AF9264D25A2001C0B91 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BEF1AF8264D25A2001C0B91 /* Assets.xcassets */; };
 		1BEF1AFC264D25A2001C0B91 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BEF1AFB264D25A2001C0B91 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		1BEF1AF1264D25A0001C0B91 /* SwiftUI Basic Gestures.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Basic Gestures.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BEF1AF4264D25A0001C0B91 /* SwiftUI_Basic_GesturesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Basic_GesturesApp.swift; sourceTree = "<group>"; };
-		1BEF1AF6264D25A0001C0B91 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1BEF1AF6264D25A0001C0B91 /* TapGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureView.swift; sourceTree = "<group>"; };
 		1BEF1AF8264D25A2001C0B91 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1BEF1AFB264D25A2001C0B91 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1BEF1AFD264D25A2001C0B91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -53,7 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				1BEF1AF4264D25A0001C0B91 /* SwiftUI_Basic_GesturesApp.swift */,
-				1BEF1AF6264D25A0001C0B91 /* ContentView.swift */,
+				1BEF1AF6264D25A0001C0B91 /* TapGestureView.swift */,
 				1BEF1AF8264D25A2001C0B91 /* Assets.xcassets */,
 				1BEF1AFD264D25A2001C0B91 /* Info.plist */,
 				1BEF1AFA264D25A2001C0B91 /* Preview Content */,
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1BEF1AF7264D25A0001C0B91 /* ContentView.swift in Sources */,
+				1BEF1AF7264D25A0001C0B91 /* TapGestureView.swift in Sources */,
 				1BEF1AF5264D25A0001C0B91 /* SwiftUI_Basic_GesturesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

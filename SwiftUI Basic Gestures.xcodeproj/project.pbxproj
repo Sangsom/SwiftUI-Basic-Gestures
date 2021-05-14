@@ -14,6 +14,7 @@
 		1BEF1B04264D5552001C0B91 /* TapGesture3xView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BEF1B03264D5552001C0B91 /* TapGesture3xView.swift */; };
 		1BEF1B06264E677E001C0B91 /* LongPressGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BEF1B05264E677E001C0B91 /* LongPressGestureView.swift */; };
 		1BEF1B08264EA4E7001C0B91 /* DragGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BEF1B07264EA4E7001C0B91 /* DragGestureView.swift */; };
+		1BEF1B0A264EB1D9001C0B91 /* MagnificationGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BEF1B09264EB1D9001C0B91 /* MagnificationGestureView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1BEF1B03264D5552001C0B91 /* TapGesture3xView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGesture3xView.swift; sourceTree = "<group>"; };
 		1BEF1B05264E677E001C0B91 /* LongPressGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureView.swift; sourceTree = "<group>"; };
 		1BEF1B07264EA4E7001C0B91 /* DragGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureView.swift; sourceTree = "<group>"; };
+		1BEF1B09264EB1D9001C0B91 /* MagnificationGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				1BEF1AF6264D25A0001C0B91 /* TapGestureView.swift */,
 				1BEF1B05264E677E001C0B91 /* LongPressGestureView.swift */,
 				1BEF1B07264EA4E7001C0B91 /* DragGestureView.swift */,
+				1BEF1B09264EB1D9001C0B91 /* MagnificationGestureView.swift */,
 				1BEF1B03264D5552001C0B91 /* TapGesture3xView.swift */,
 				1BEF1AF8264D25A2001C0B91 /* Assets.xcassets */,
 				1BEF1AFD264D25A2001C0B91 /* Info.plist */,
@@ -151,6 +154,7 @@
 				1BEF1B04264D5552001C0B91 /* TapGesture3xView.swift in Sources */,
 				1BEF1AF7264D25A0001C0B91 /* TapGestureView.swift in Sources */,
 				1BEF1AF5264D25A0001C0B91 /* SwiftUI_Basic_GesturesApp.swift in Sources */,
+				1BEF1B0A264EB1D9001C0B91 /* MagnificationGestureView.swift in Sources */,
 				1BEF1B08264EA4E7001C0B91 /* DragGestureView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

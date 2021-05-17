@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUI_Basic_GesturesApp: App {
     var body: some Scene {
         WindowGroup {
-            MagnificationGestureView()
+            RotationGestureView()
         }
     }
 }

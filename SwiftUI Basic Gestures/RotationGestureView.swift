@@ -31,7 +31,7 @@ struct RotationGestureView: View {
             .gesture(rotation)
             .background(
                 Rectangle()
-                    .shadow(color: .primary, radius: 10, x: 0.0, y: 0.0)
+                    .shadow(color: .primary, radius: 10, x: 0.0, y: 0.01)
                     .foregroundColor(.secondary)
                     .rotationEffect(backgroundAngle)
             )
